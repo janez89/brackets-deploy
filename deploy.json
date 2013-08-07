@@ -1,0 +1,15 @@
+{
+    "protocol": "sftp",
+    "server": "192.168.56.101",
+    "port": "22",
+    "username": "dev",
+    "password": "",
+    "remotePath": "/home/dev/deploy",
+    "ExpilcitSave": true, // CTRL-S
+
+    "ignore": [
+        "tmp/*",
+        ".svn",
+        ".bak"
+    ]
+}

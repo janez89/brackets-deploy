@@ -1,0 +1,17 @@
+{
+    "name": "janez89.deploy",
+    "title": "Deploy tool",
+    "description": "Deploy tool for work remote server",
+    "homepage": "https://github.com/janez89/brackets-deploy",
+    "version": "1.0.0",
+    "author": "Janos Meszaros <m.janee@gmail.com> (https://github.com/janez89)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.28.0"
+    },
+    "keywords": [
+        "deploy",
+        "save",
+        "remote"
+    ]
+}
